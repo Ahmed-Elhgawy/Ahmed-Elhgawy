@@ -36,7 +36,7 @@ Here are a few things I’ve worked on (check my pinned repos for details):
 ---
 
 ## 🤝 Let's Connect
-- [LinkedIn]([https://www.linkedin.com/in/YOUR-LINK](https://linkedin.com/in/ahmed-mahmoud-a16310268))  
+- [LinkedIn](https://linkedin.com/in/ahmed-mahmoud-a16310268)
 - [Email](ahmadinejad.am50@gmail.com)
 
 ---
