@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ahmed Elhgawy
 
-🎓 I'm a recent Electronics and Communications Engineering graduate with a passion for DevOps and cloud technologies.  
-🪖 After completing my military service, I dove deep into hands-on learning and real-world projects.
+🎓 I'm a recent Electronics and Communications Engineering graduate with a passion for **DevOps**, **cloud computing**, and **infrastructure automation**. After completing my military service, I dove deep into real-world DevOps tools and practices through hands-on projects.
 
 ---
 
@@ -10,21 +9,19 @@
 - **Infrastructure as Code**: Terraform, Ansible  
 - **CI/CD**: Jenkins, GitHub Actions  
 - **Cloud Platforms**: AWS, Azure  
-- **Other**: Linux, Git, Bash, YAML
+- **Other**: Linux, Git, Bash, YAML, python, nodejs
 
 ---
 
-## 🚀 Projects
-Here are a few things I’ve worked on (check my pinned repos for details):
+## 🚀 My DevOps Projects
 
-- **Kubernetes Deployment Pipeline**  
-  Full CI/CD pipeline using Jenkins, Docker, and Helm to deploy apps on Kubernetes.
-
-- **Infrastructure as Code with Terraform & AWS**  
-  Created reusable Terraform modules to provision EC2 instances, S3 buckets, and VPCs.
-
-- **Ansible Playbook for Dockerized Apps**  
-  Automated Docker installation and app deployment across multiple servers using Ansible.
+| Repo Name                    | Link                                                                      | Description                                                 |
+| ---------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| `dockerized-web-app`         | [GitHub](https://github.com/Ahmed-Elhgawy/dockerized-web-app.git)         | A simple Node.js app fully containerized with Docker.       |
+| `ci-cd-pipeline-demo`        | [GitHub](https://github.com/Ahmed-Elhgawy/ci-cd-pipeline-demo.git)        | GitHub Actions workflow for Docker image build/test/deploy. |
+| `k8s-deployment-with-helm`   | [GitHub](https://github.com/Ahmed-Elhgawy/k8s-gitops-infrastructure.git)  | Kubernetes app deployed using Helm charts.                  |
+| `terraform-aws-infra`        | [GitHub](https://github.com/Ahmed-Elhgawy/terraform-aws-infra.git)        | Terraform code to provision EC2, VPC, and S3 on AWS.        |
+| `monitoring-with-prometheus` | [GitHub](https://github.com/Ahmed-Elhgawy/monitoring-with-prometheus.git) | Monitoring stack with Prometheus and Grafana.               |
 
 ---
 
@@ -35,10 +32,9 @@ Here are a few things I’ve worked on (check my pinned repos for details):
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 ## 📫 Contact Me
 - [LinkedIn](https://linkedin.com/in/ahmed-mahmoud-a16310268)
-- ahmadinejad.am50@gmail.com
-
+- ahmedelhgawy182@gmail.com
 ---
 
-⭐️ **Thanks for visiting!** I'm actively looking for a junior DevOps role where I can grow, contribute, and keep learning.
+⭐️ *Thanks for visiting my profile! Feel free to check out my projects or connect with me.* 🙌
